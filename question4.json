@@ -1,0 +1,72 @@
+{"quizlist":[
+      {
+      "question1":"This map shows what the weather of a specific area has been or could be",
+      "question2":"",
+      "option1":"Weather Map",
+      "option2":"Road Map",
+      "option3":"Population Map"
+      },
+      {
+      "question1":"Which map description describes a road map?",
+      "question2":"",
+      "option1":"this map shows the types of roads in an area",
+      "option2":"his map shows elevation",
+      "option3":"this map uses boundary lines "
+      },
+      {
+      "question1":"",
+      "question2":"shows the elevation, vegetation, or some other physical feature of the land.",
+      "option1":"physical map",
+      "option2":"physical map",
+      "option3":"physical map"
+      },
+      {
+      "question1":"Which map shows the areas in which people live?",
+      "question2":"",
+      "option1":"population map",
+      "option2":"physical map",
+      "option3":"political map"
+      },
+      {
+      "question1":"Which of the following would help you to read and understand a map?",
+      "question2":"",
+      "option1":"Both",
+      "option2":"Map Key",
+      "option3":"Title"
+      },
+      {
+      "question1":"What gives us a round view of the world?",
+      "question2":"",
+      "option1":"globe",
+      "option2":"aerial map",
+      "option3":"road map"
+      },
+      {
+      "question1":"How does a map scale help you to read a map?",
+      "question2":"",
+      "option1":"it is a tool for measuring distance",
+      "option2":"it tells what things are on the map",
+      "option3":"it helps to show what things stand for"
+      },
+       {
+      "question1":"Sometimes maps can show us the types of things that are grown, raised, or mined in a certain place. What are these maps called?",
+      "question2":"",
+      "option1":"product maps",
+      "option2":"physical maps",
+      "option3":"population maps"
+       },
+       {
+      "question1":"This map uses boundary lines to show the history of an area.",
+      "question2":"",
+      "option1":"historical map",
+      "option2":"road map",
+      "option3":"political map"
+      },
+      {
+      "question1":"Weather maps can also show average temperatures in a specific area ",
+      "question2":"",
+      "option1":"True",
+      "option2":"False",
+      "option3":"Not Sure"
+      }
+]}

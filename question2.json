@@ -1,0 +1,72 @@
+{"quizlist":[
+      {
+      "question1":"Which of Newton's Three Laws does the following statement satisfy? The relationship between an object's mass (m), its acceleration (a), and the applied force F is F=ma. Acceleration and force are vectors. This law requires that the direction of the acceleration vector is in the same direction as the force vector.",
+      "question2":"",
+      "option1":"Newton's Second Law",
+      "option2":"Newton's First Law",
+      "option3":"Newton's Third Law"
+      },
+      {
+      "question1":"Which of Newton's Three Laws does the following statement satisfy? For every action there is an equal and opposite reaction.",
+      "question2":"",
+      "option1":"Newton's Third Law",
+      "option2":"Newton's Second Law",
+      "option3":"Newton's First Law"
+      },
+      {
+      "question1":"Which of Newton's Three Laws does the following statement satisfy? Every object in a state of uniform motion tends to remain in that state of motion unless an external force is applied to it.",
+      "question2":"",
+      "option1":"Newton's First Law",
+      "option2":"Newton's Second Law",
+      "option3":"Newton's Third Law"
+      },
+      {
+      "question1":"Which of Newton's three laws does the following example illustrate? If you have a hockey puck sliding along a table, it will eventually come to a stop.",
+      "question2":"",
+      "option1":"Newton's First Law",
+      "option2":"Newton's Second Law",
+      "option3":"Newton's Third Law"
+      },
+      {
+      "question1":"Which of Newton's Laws does this situation represent? Imagine a ball moving in a straight line directly toward when another ball collides with it. The moving ball exerts a force on the ball at rest. This causes the ball at rest to accelerate. However, the ball at rest also exerts the same magnitude of force (in the opposite direction) of the moving ball. This will cause the moving ball to decelerate or even move in another direction.",
+      "question2":"",
+      "option1":"Newton's Third Law",
+      "option2":"Newton's Second Law",
+      "option3":"Newton's First Law"
+      },
+      {
+      "question1":"In the following example, what are the forces that are acting on the ball? Check all that apply. If a ball is thrown in the air, it will keep going the same velocity unless a force changes the velocity (speed and direction). ",
+      "question2":"",
+      "option1":"air friction",
+      "option2":"gravity",
+      "option3":"resistance of the ground"
+      },
+      {
+      "question1":"Which law states the need to wear seatbelts?",
+      "question2":"",
+      "option1":"Newton's First Law",
+      "option2":"Newton's Second Law",
+      "option3":"Newton's Third Law"
+      },
+       {
+      "question1":"",
+      "question2":"was the scientist who gave us the Laws of Motion.",
+      "option1":"Sir Isaac Newton",
+      "option2":"Sir Isaac Newton",
+      "option3":"Sir Isaac Newton"
+      },
+       {
+      "question1":"What is another name for the Newton's first law of motion?",
+      "question2":"",
+      "option1":"Law of Inertia",
+      "option2":"Law of Velocity",
+      "option3":"Law of Acceleration"
+      },
+      {
+      "question1":"Which of Newton's Three Law does the following example illustrate? The blood in your head rushes to your feet when riding on an elevator this is descending and abruptly stops.",
+      "question2":"",
+      "option1":"Newton's First Law",
+      "option2":"Newton's Second Law",
+      "option3":"Newton's Third Law"
+      }
+]}
